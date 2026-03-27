@@ -1,6 +1,6 @@
 ---
 title: "Hands-on Session I: Proteomic and Metabolomic Characterization of COVID-19 Patient Sera"
-author: "Dummy Surname (dummy@upf.edu)"
+author: "Domenica Arlet Teller Guardián (domenicaarlet.teller01@estudiant.upf.edu)"
 date: "Last update: `r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_document:
