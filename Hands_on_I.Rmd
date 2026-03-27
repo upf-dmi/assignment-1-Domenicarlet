@@ -6,8 +6,12 @@ output:
   html_document:
     toc: true
     toc_float: true
-    fig_caption: true
     theme: cosmo
+    code_folding: show
+    fig_caption: true
+editor_options: 
+  markdown: 
+    wrap: sentence
 ---
 
 ```{r setup, include=FALSE}
